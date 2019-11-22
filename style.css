@@ -1,0 +1,38 @@
+
+.TituloIzq {
+    border: solid black;
+    color: red;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    margin: 0px;
+    float: left;
+    width: 250px;
+
+}
+   
+.padre {
+    width: 100%;
+    margin-top: 20px;
+    overflow: hidden;
+    border: solid red ;
+    background-image: url(https://images3.alphacoders.com/621/621682.jpg);
+    background-size: 400px 400px;
+    background-color: blueviolet;
+}
+
+
+#imagen-bienvenida {
+width: 80%;
+max-width: 900px;
+margin-left: 200px;
+float: right;
+
+}
+
+.TituloIzq {
+float: left;
+fill-opacity: inherit;
+
+
+}
