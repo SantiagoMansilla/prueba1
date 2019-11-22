@@ -1,7 +1,7 @@
 
 .TituloIzq {
-    border: solid black;
-    color: red;
+    border: solid blue;
+    color: blue
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: bold;
@@ -15,10 +15,10 @@
     width: 100%;
     margin-top: 20px;
     overflow: hidden;
-    border: solid red ;
+    border: solid blue ;
     background-image: url(https://images3.alphacoders.com/621/621682.jpg);
     background-size: 400px 400px;
-    background-color: blueviolet;
+    background-color: blue;
 }
 
 
